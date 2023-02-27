@@ -96,7 +96,7 @@ header, footer {
 
 /* Typography Styles */
 html{
-    font-family: montserrat, Arial, sans-serif;
+    font-family: montserrat;
     font-style: normal;
 }
 
@@ -116,7 +116,7 @@ h2+p{
 }
 
 p{
-    font-family: montserrat, Arial, sans-serif;
+    font-family: montserrat;
     font-size: .75rem;
     letter-spacing: 0.03125rem;
     word-spacing: .125rem;
