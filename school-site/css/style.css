@@ -100,12 +100,8 @@ html{
     font-style: normal;
 }
 
-h1, h2{
-    font-family: josefinslab, Georgia, serif;
-    letter-spacing: 0.125rem;
-}
-
 h1{
+    font-family: josefinslab;
     font-size: 3.75rem;
     margin: 1.125rem;
     text-align: center;
@@ -120,6 +116,7 @@ h2+p{
 }
 
 p{
+    font-family: montserrat, Arial, sans-serif;
     font-size: .75rem;
     letter-spacing: 0.03125rem;
     word-spacing: .125rem;
