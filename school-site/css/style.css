@@ -78,7 +78,6 @@ header, footer {
 
 
 /* Imported Typfaces */
-
 @font-face {
     font-family: josefinslab;
     src: url(../fonts/josefinslab-regular.ttf) format('truetype');
@@ -212,6 +211,3 @@ nav a:active {
 footer {
     text-align: center;
 }
-
-
-
