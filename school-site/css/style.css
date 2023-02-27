@@ -96,11 +96,12 @@ header, footer {
 
 /* Typography Styles */
 html{
-    font-family: montserrat;
+    font-family: montserrat, Arial, sans-serif;
+    font-style: normal;
 }
 
 h1, h2{
-    font-family: josefinslab;
+    font-family: josefinslab, Georgia, serif;
     letter-spacing: 0.125rem;
 }
 
